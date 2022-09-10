@@ -1,0 +1,21 @@
+html {
+background-color: #4180ab;
+font-size: 20px;
+}
+
+h1 {
+background: #8ab3cf;
+padding: 10px;
+border: 1px solid black;
+}
+
+h2 {
+background: #bdd1de;
+padding: 5px;
+margin-left: 10px;
+}
+
+p {
+background: #e4ebf0;
+margin-left: 20px;
+}
